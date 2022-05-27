@@ -3,3 +3,4 @@ def get_breakfast_rating(food):
 		return "That's an AMAZING breakfast!"
 	else:
 		return "That sounds like a good breakfast"
+
