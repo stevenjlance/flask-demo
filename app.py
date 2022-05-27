@@ -10,6 +10,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 
+
 # -- Routes section --
 @app.route('/')
 @app.route('/index')
